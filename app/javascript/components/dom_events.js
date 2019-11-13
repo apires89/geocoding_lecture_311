@@ -1,0 +1,3 @@
+const DomEvents = () => {
+  //javscripts stuff
+}
